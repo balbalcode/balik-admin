@@ -1,0 +1,30 @@
+.head{
+	background: white;
+	border-radius: 3px;
+	border: 1px solid rgba(34,36,38,.15);
+	border-radius: .28571429rem;
+}
+.lists{
+	border-bottom: 1px solid rgba(34,36,38,.15);
+	padding: 10px;
+	width: 100%;
+}
+.lists span:first-child{
+	display: inline-block;
+	width: 15% !important;
+}
+
+.lists span:nth-child(2){
+	display: inline-block;
+	width: 33% !important;
+}
+
+.lists span:nth-child(3){
+	display: inline-block;
+	width: 15% !important;
+}
+
+.lists span:nth-child(4){
+	display: inline-block;
+	width: 35% !important;
+}
